@@ -9,6 +9,6 @@ The project uses default port 3000.
     <li>In the terminal, navigate to the folder 'FoodExpress' and use command 'npm install' to install all the dependencies</li>
     <li>Download docker, and start the database by using command 'docker-compose up -d' in the terminal</li>
     <li>Run the project by using command 'npm start' in the terminal</li>
-    <li>To view ther operation, view package.json</li>
+    <li>To view other operations, view package.json</li>
 </ol></div>
 
