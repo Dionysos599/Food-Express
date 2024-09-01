@@ -7,7 +7,7 @@ The project uses default port 3000.
 <div><ol>
     <li>Navigate to backend directory</li>
     <li>Run build.gradle to build the project</li>
-    <li>Download Docker</li>
+    <li>In this project we are using Docker for Database, so you need to have it downloaded.</li>
     <li>In the terminal, navigate to the folder Server and use the command 'docker-compose up -d' to start the database</li>
     <li>In the terminal, navigate to the folder 'FoodExpress' and use command 'npm install' to install all the dependencies</li>
     <li>Run the project by using command 'npm start' in the terminal</li>
