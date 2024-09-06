@@ -1,18 +1,17 @@
 # Food-Express
 Online order system containing features like registration, login, menu searching, ordering, and checkout.
-It is based on Spring for server and React for interface.
-The project uses default port 3000.
+
+## Deployed URL
+https://5qsts38p4t.us-east-2.awsapprunner.com
 
 ## Configuration
-<div><ol>
-    <li>Navigate to backend directory</li>
-    <li>Run build.gradle to build the project</li>
-    <li>In this project we are using Docker for Database, so you need to have it downloaded.</li>
-    <li>In the terminal, navigate to the folder Server and use the command 'docker-compose up -d' to start the database</li>
-    <li>In the terminal, navigate to the folder 'FoodExpress' and use command 'npm install' to install all the dependencies</li>
-    <li>Run the project by using command 'npm start' in the terminal</li>
-    <li>For other operations, view package.json or the following React-generated instructions</li>
-</ol></div>
+1. Navigate to `backend` directory
+2. Run build.gradle to build the project
+3. We are using Docker for the Database in this project, so you need to have it downloaded.
+4. In the terminal, navigate to the folder Server and use the command 'docker-compose up -d' to start the database
+5. In the terminal, navigate to the folder 'FoodExpress' and use the command `npm install` to install all the dependencies
+6. Run the project by using the command `npm start` in the terminal
+7. For other operations, view package.json or the following React-generated instructions
 
 <br>
 <br>
